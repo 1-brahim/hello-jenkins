@@ -1,5 +1,5 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello from Jenkins! this has been triggered");
+        System.out.println("Hello from Jenkins! this has been triggered and this is a test");
     }
 }
